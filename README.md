@@ -6,7 +6,7 @@ https://weather-api-five-pink.vercel.app/
 🌦️ Weather API
 
 https://weather-api-five-pink.vercel.app/
- (Example — Replace with your actual domain if deploying)
+https://github.com/chandaniptl/Weather_API
 
 A simple web app that fetches real-time weather information using the OpenWeatherMap API. Built with HTML5, CSS3, and JavaScript.
 📁 Project Structure
